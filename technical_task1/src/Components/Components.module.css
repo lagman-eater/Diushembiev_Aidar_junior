@@ -1,0 +1,16 @@
+.headerCont{
+    height: 100px;
+    background-color: aqua;
+    margin: 0;
+}
+.headerCont h2{
+    margin: 0;
+    text-align: start;
+    padding: 30px 50px;
+}
+
+.productLisCont{
+    height: 150px;
+    margin: 0;
+    background-color: hsl(0, 0%, 80%);
+}
